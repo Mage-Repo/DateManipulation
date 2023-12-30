@@ -1,0 +1,17 @@
+.mainDiv{
+position: relative;
+text-align: center;
+top: 50px;
+}
+.mainDiv input{
+    width: 30%;
+}
+.mainDiv button{
+    margin-left:  10px;
+    margin-bottom: 5px;
+}
+
+.childDiv{
+    text-align: center;
+    padding: 5px;
+}
